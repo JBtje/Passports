@@ -1,3 +1,9 @@
+WIP
+===
+*Project is being worked on, **not** yet ready for use.*  
+
+
+  
 <p align="center"><img src="/art/logo.svg" alt="Logo Laravel Passport"></p>
 
 <p align="center">
